@@ -1,0 +1,61 @@
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\bin\Debug\Kliche.exe
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\bin\Debug\Kliche.pdb
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csproj.GenerateResource.Cache
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+H:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csprojResolveAssemblyReference.cache
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csprojResolveAssemblyReference.cache
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+I:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csproj.GenerateResource.Cache
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csprojResolveAssemblyReference.cache
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csproj.GenerateResource.Cache
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+F:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.exe
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\Kliche.pdb
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csprojResolveAssemblyReference.cache
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.MainForm.resources
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.Properties.Resources.resources
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.csproj.GenerateResource.Cache
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.exe
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\Kliche\obj\x86\Debug\Kliche.pdb

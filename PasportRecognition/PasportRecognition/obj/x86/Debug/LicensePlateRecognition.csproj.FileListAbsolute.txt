@@ -1,0 +1,121 @@
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+D:\Studio\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+h:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Project\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Распознавание авто\Версия\Версия 1.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+h:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Распознавание авто\Версия\Версия 2.0\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+h:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+h:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+h:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+h:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+h:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+h:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+i:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+g:\Распознавание авто\Версия\Версия 2.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+f:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+H:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+H:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+H:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+j:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+j:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+j:\Распознавание авто\Версия\Версия 2.1 (Маршрутки)\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+j:\Распознавание авто\Версия\Версия 2.1.1\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.CoreCompileInputs.cache
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csprojAssemblyReference.cache
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.MainForm.resources
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.Properties.Resources.resources
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.GenerateResource.cache
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.csproj.CoreCompileInputs.cache
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.exe
+C:\Users\sych_\source\repos\LicensePlateRecognition\LicensePlateRecognition\obj\x86\Debug\LicensePlateRecognition.pdb

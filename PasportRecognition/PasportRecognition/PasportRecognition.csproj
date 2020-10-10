@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0D34E25-EF16-45D5-9366-1D34FA140CD3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PasportRecognition</RootNamespace>
+    <AssemblyName>PasportRecognition</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opencv2.4.10\CV\AdaptiveSkinDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\CameraCalibration.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\ExtrinsicCameraParameters.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\HomographyMatrix.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\IntrinsicCameraParameters.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\Quaternions.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\RotationMatrix2D.cs" />
+    <Compile Include="Opencv2.4.10\CV\CameraCalibration\RotationVector3D.cs" />
+    <Compile Include="Opencv2.4.10\CV\Capture\Capture.cs" />
+    <Compile Include="Opencv2.4.10\CV\Capture\ICapture.cs" />
+    <Compile Include="Opencv2.4.10\CV\Capture\IDuplexCapture.cs" />
+    <Compile Include="Opencv2.4.10\CV\Capture\IDuplexCaptureCallback.cs" />
+    <Compile Include="Opencv2.4.10\CV\Capture\KinectCapture.cs" />
+    <Compile Include="Opencv2.4.10\CV\CascadeClassifier.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Bgr.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Bgra.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\ColorInfoAttribute.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\DisplayColorAttribute.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Gray.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Hls.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Hsv.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\IColor.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Lab.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Luv.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Rgb.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Rgb565.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Rgba.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Xyz.cs" />
+    <Compile Include="Opencv2.4.10\CV\Color\Ycc.cs" />
+    <Compile Include="Opencv2.4.10\CV\Contour.cs" />
+    <Compile Include="Opencv2.4.10\CV\ConvolutionKernelF.cs" />
+    <Compile Include="Opencv2.4.10\CV\CvArray.cs" />
+    <Compile Include="Opencv2.4.10\CV\Cvb\CvBlob.cs" />
+    <Compile Include="Opencv2.4.10\CV\Cvb\CvBlobDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Cvb\CvBlobs.cs" />
+    <Compile Include="Opencv2.4.10\CV\Cvb\CvTrack.cs" />
+    <Compile Include="Opencv2.4.10\CV\Cvb\CvTracks.cs" />
+    <Compile Include="Opencv2.4.10\CV\DenseHistogram.cs" />
+    <Compile Include="Opencv2.4.10\CV\EigenObjectRecognizer.cs" />
+    <Compile Include="Opencv2.4.10\CV\ERFilter.cs" />
+    <Compile Include="Opencv2.4.10\CV\FaceRecognizer.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\BOWImgDescriptorExtractor.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\BOWKMeansTrainer.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\BriefDescriptorExtractor.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\Brisk.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\BruteForceMatcher.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\DenseFeatureDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\DescriptorMatcher.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\FastDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\Feature2DBase.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\Features2DExtensions.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\Features2DTracker.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\Freak.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\GFTTDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\GridAdaptedFeatureDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\IDescriptorExtractor.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\IKeyPointDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\ImageFeature.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\LDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\MSERDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\OpponentColorDescriptorExtractor.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\ORBDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\PatchGenerator.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\PlanarObjectDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\RTreeClassifier.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\SelfSimDescriptor.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\SIFTDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\StarDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\SURFDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\Features2D\SURFFeature.cs" />
+    <Compile Include="Opencv2.4.10\CV\FeatureTree.cs" />
+    <Compile Include="Opencv2.4.10\CV\Flann\CenterInitType.cs" />
+    <Compile Include="Opencv2.4.10\CV\Flann\Index.cs" />
+    <Compile Include="Opencv2.4.10\CV\Flann\Index3D.cs" />
+    <Compile Include="Opencv2.4.10\CV\Geodetic\GeodeticCoordinate.cs" />
+    <Compile Include="Opencv2.4.10\CV\HaarCascade.cs" />
+    <Compile Include="Opencv2.4.10\CV\HOGDescriptor.cs" />
+    <Compile Include="Opencv2.4.10\CV\IImage.cs" />
+    <Compile Include="Opencv2.4.10\CV\Image.cs" />
+    <Compile Include="Opencv2.4.10\CV\Kalman.cs" />
+    <Compile Include="Opencv2.4.10\CV\LatentSvmDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\LevMarqSparse.cs" />
+    <Compile Include="Opencv2.4.10\CV\Map.cs" />
+    <Compile Include="Opencv2.4.10\CV\MatND.cs" />
+    <Compile Include="Opencv2.4.10\CV\Matrix.cs" />
+    <Compile Include="Opencv2.4.10\CV\MemStorage.cs" />
+    <Compile Include="Opencv2.4.10\CV\MotionHistory.cs" />
+    <Compile Include="Opencv2.4.10\CV\Octree.cs" />
+    <Compile Include="Opencv2.4.10\CV\OpticalFlow.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvEnum.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvoke.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeCalib3d.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeCore.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeCvextern.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeEntryPoints.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeFeatures2d.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeFFMPEG.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeHighGUI.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeImgproc.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeLegacy.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeObjdetect.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokePhoto.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvInvokeVideo.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\Cuboid.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\CvStructSizes.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvAvgComp.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBGCodeBookModel.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBGStatModel.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBlob.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBlobTrackerAutoParam1.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBlobTrackerParamLH.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBlobTrackerParamMS.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvBox2D.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvChain.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvConDensation.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvConnectedComp.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvContour.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvConvexityDefect.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvFGDStatModelParams.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvFont.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvGaussBGStatModelParams.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvHistogram.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvHuMoments.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvKalman.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvMat.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvMatND.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvMoments.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvMSERParams.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvObjectDetection.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvPoint2D64f.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvPoint3D32f.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvPoint3D64f.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvQuadEdge2D.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvScalar.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSeq.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSeqBlock.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSeqReader.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSet.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSetElem.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSlice.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvStarDetectorParams.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvStarKeypoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvStereoBMState.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvStereoGCState.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSubdiv2D.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSubdiv2DEdge.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSubdiv2DPoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSURFParams.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvSURFPoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MCvTermCriteria.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MDMatch.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MIplImage.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\MKeyPoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\PInvoke\CvType\RangeF.cs" />
+    <Compile Include="Opencv2.4.10\CV\PlanarSubdivision.cs" />
+    <Compile Include="Opencv2.4.10\CV\PointAndLine\LineSegment2D.cs" />
+    <Compile Include="Opencv2.4.10\CV\PointAndLine\LineSegment2DF.cs" />
+    <Compile Include="Opencv2.4.10\CV\PointAndLine\LineSegment3DF.cs" />
+    <Compile Include="Opencv2.4.10\CV\PointAndLine\PointCollection.cs" />
+    <Compile Include="Opencv2.4.10\CV\Reflection\ExposableMethodAttribute.cs" />
+    <Compile Include="Opencv2.4.10\CV\Reflection\GenericParameter.cs" />
+    <Compile Include="Opencv2.4.10\CV\Reflection\ReflectColorType.cs" />
+    <Compile Include="Opencv2.4.10\CV\Reflection\ReflectIImage.cs" />
+    <Compile Include="Opencv2.4.10\CV\Retina.cs" />
+    <Compile Include="Opencv2.4.10\CV\Seq.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\CircleF.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\Cross2DF.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\Ellipse.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\IConvexPolygon.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\IConvexPolygonF.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\Triangle2DF.cs" />
+    <Compile Include="Opencv2.4.10\CV\Shape\Triangle3DF.cs" />
+    <Compile Include="Opencv2.4.10\CV\SparseMatrix.cs" />
+    <Compile Include="Opencv2.4.10\CV\StereoBM.cs" />
+    <Compile Include="Opencv2.4.10\CV\StereoGC.cs" />
+    <Compile Include="Opencv2.4.10\CV\StereoSGBM.cs" />
+    <Compile Include="Opencv2.4.10\CV\StructuringElementEx.cs" />
+    <Compile Include="Opencv2.4.10\CV\Tiff\TiffWriter.cs" />
+    <Compile Include="Opencv2.4.10\CV\Tiff\TileTiffWriter.cs" />
+    <Compile Include="Opencv2.4.10\CV\TimedImage.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\CvException.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\CvToolbox.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\DataLogger.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\Mat.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\StructSize.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\TbbTaskScheduler.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfByte.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfDataMatrixCode.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfDMatch.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfFloat.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfKeyPoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfMat.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfPoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\VectorOfVectorOfPoint.cs" />
+    <Compile Include="Opencv2.4.10\CV\Util\ZlibCompression.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BackgroundSubtractor.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BackgroundSubtractorMOG.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BackgroundSubtractorMOG2.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BGCodeBookModel.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BGStatModel.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobSeq.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobSeqBase.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobTracker.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobTrackerAuto.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobTrackerAutoParam.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\BlobTrackPostProc.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\FGDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoSurveillance\IBGFGDetector.cs" />
+    <Compile Include="Opencv2.4.10\CV\VideoWriter.cs" />
+    <Compile Include="Opencv2.4.10\Util\BinaryFileStorage.cs" />
+    <Compile Include="Opencv2.4.10\Util\DisposableObject.cs" />
+    <Compile Include="Opencv2.4.10\Util\EventArgs.cs" />
+    <Compile Include="Opencv2.4.10\Util\ICodeGenerable.cs" />
+    <Compile Include="Opencv2.4.10\Util\IInterpolatable.cs" />
+    <Compile Include="Opencv2.4.10\Util\PinnedArray.cs" />
+    <Compile Include="Opencv2.4.10\Util\Platform.cs" />
+    <Compile Include="Opencv2.4.10\Util\Toolbox.cs" />
+    <Compile Include="Opencv2.4.10\Util\TypeEnum.cs" />
+    <Compile Include="Opencv2.4.10\Util\UnmanagedObject.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recognize\Pasport.cs" />
+    <Compile Include="Recognize\Hash.cs" />
+    <Compile Include="Recognize\Horizontal.cs" />
+    <Compile Include="Recognize\LetterDigit.cs" />
+    <Compile Include="Recognize\Plate.cs" />
+    <Compile Include="Recognize\Threshold.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль Microsoft .NET Framework 4 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
